@@ -8,7 +8,7 @@ navbar:
       href: day-07.html
   right:
     - icon: fa-github
-      href: https://github.com/ousdon/geog176a-lab1
+      href: https://github.com/ousdon/daily-exercise-07
 output:
   html_document:
     theme: simplex
