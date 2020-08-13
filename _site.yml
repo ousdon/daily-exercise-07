@@ -1,0 +1,14 @@
+name: "Day-07"
+output_dir: "."
+navbar:
+  title: "Homework"
+  left:
+    - text: "Homework"
+      icon: fa-home
+      href: day-07.html
+  right:
+    - icon: fa-github
+      href: https://github.com/ousdon/geog176a-lab1
+output:
+  html_document:
+    theme: simplex
